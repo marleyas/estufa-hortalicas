@@ -1,6 +1,8 @@
 # estufa-hortalicas
 Projeto eletrônico da Estufa de Hortaliças - Desafio DIO
 
+![imagem](/estufa.png)
+
 Circuito disponível em:
 
 https://www.tinkercad.com/things/fCKRJu7rRL7-fantastic-albar/editel?tenant=circuits
